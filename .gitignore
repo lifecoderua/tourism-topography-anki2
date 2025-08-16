@@ -1,2 +1,31 @@
-_media_destination/
-_media_source/
+# content folders
+media_destination/
+media_source/
+
+# env and framework
+/node_modules
+.env
+
+
+# compiled output
+/debug
+/dist
+
+# OS
+.DS_Store
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
