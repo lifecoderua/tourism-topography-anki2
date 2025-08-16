@@ -1,0 +1,11 @@
+{
+  "name": "tourism_topographic-signs",
+  "version": "1.0.0",
+  "description": "Copies and renames images from media_source to media_destination based on a JSON catalogue.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
