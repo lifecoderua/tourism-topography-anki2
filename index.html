@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tourism Topographic Signs Showcase</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shadcn/ui@latest/dist/shadcn.min.css">
+  <style>
+    body { background: #f8fafc; }
+    .anki-card { margin: 2rem auto; max-width: 400px; box-shadow: 0 2px 8px #0001; border-radius: 1rem; overflow: hidden; background: #fff; }
+    .anki-card .card-top, .anki-card .card-bottom { display: flex; justify-content: center; align-items: center; height: 200px; background: #f1f5f9; }
+    .anki-card img { max-height: 180px; max-width: 100%; object-fit: contain; }
+    .anki-card .card-bottom { border-top: 1px solid #e2e8f0; }
+  </style>
+</head>
+<body>
+  <main id="anki-cards" class="flex flex-col items-center py-8"></main>
+  <script>
+    // Fetch the media catalogue and render cards
+    fetch('media')
+      .then(r => r.json())
+      .then(media => {
+        const ids = Object.keys(media).map(Number).sort((a, b) => a - b);
+        const cards = [];
+        for (let i = 0; i < ids.length; i += 2) {
+          const evenId = ids[i];
+          const oddId = ids[i + 1];
+          const evenExt = media[evenId] ? media[evenId].match(/\.[^.]+$/)[0] : '';
+          const oddExt = media[oddId] ? media[oddId].match(/\.[^.]+$/)[0] : '';
+          cards.push({
+            top: evenId !== undefined ? `media_destination/${evenId}${evenExt}` : null,
+            bottom: oddId !== undefined ? `media_destination/${oddId}${oddExt}` : null,
+            topId: evenId,
+            bottomId: oddId
+          });
+        }
+        const main = document.getElementById('anki-cards');
+        for (const card of cards) {
+          const el = document.createElement('div');
+          el.className = 'anki-card shadcn-card';
+          el.innerHTML = `
+            <div class="card-top">${card.top ? `<img src="${card.top}" alt="${card.topId}">` : ''}</div>
+            <div class="card-bottom">${card.bottom ? `<img src="${card.bottom}" alt="${card.bottomId}">` : ''}</div>
+          `;
+          main.appendChild(el);
+        }
+      });
+  </script>
+</body>
+</html>

@@ -20,5 +20,5 @@ npm start
 node src/app.js
 ```
 
-This will copy images from `media_source/` to `media_destination/`, preserving the file name (ID) and setting the extension based on the `media` JSON catalogue.
+This will copy images from `media_source/` to `media_destination/`, preserving the file name (ID) and setting the extension based on the `media_source/media` JSON catalogue.
 
