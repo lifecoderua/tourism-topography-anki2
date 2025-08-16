@@ -17,5 +17,12 @@
   <main id="anki-cards" class="flex flex-col items-center py-8">
     <!-- ANKI_CARDS_PLACEHOLDER -->
   </main>
+  <style>
+    .anki-row { display: flex; flex-direction: row; justify-content: center; gap: 2rem; margin-bottom: 2rem; }
+    @media (max-width: 900px) {
+      .anki-row { flex-wrap: wrap; gap: 1rem; }
+      .anki-card { margin: 1rem 0; }
+    }
+  </style>
 </body>
 </html>

@@ -19,15 +19,21 @@ function ensureDirSync(dir) {
 function buildCardsHtml(media) {
   const ids = Object.keys(media).map(Number).sort((a, b) => a - b);
   let html = '';
+  let row = [];
   for (let i = 0; i < ids.length; i += 2) {
     const evenId = ids[i];
     const oddId = ids[i + 1];
     const evenExt = media[evenId] ? media[evenId].match(/\.[^.]+$/)[0] : '';
     const oddExt = media[oddId] ? media[oddId].match(/\.[^.]+$/)[0] : '';
-    html += `<div class="anki-card shadcn-card">
+    const cardHtml = `<div class="anki-card shadcn-card">
       <div class="card-top">${evenId !== undefined ? `<img src=\"${evenId}${evenExt}\" alt=\"${evenId}\">` : ''}</div>
       <div class="card-bottom">${oddId !== undefined ? `<img src=\"${oddId}${oddExt}\" alt=\"${oddId}\">` : ''}</div>
-    </div>\n`;
+    </div>`;
+    row.push(cardHtml);
+    if (row.length === 4 || i + 2 >= ids.length) {
+      html += `<div class="anki-row">${row.join('\n')}</div>\n`;
+      row = [];
+    }
   }
   return html;
 }
