@@ -1,6 +1,5 @@
 # content folders
 media_destination/
-media_source/
 
 # env and framework
 /node_modules
