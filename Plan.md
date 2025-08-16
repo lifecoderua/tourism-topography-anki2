@@ -1,0 +1,3 @@
+- use nodejs, provide a `package.json` running `src/app.js`
+- copy the `media_source/` images to `media_destination/`, preserve the file name, set the extension based on the `media` JSON catalogue
+- supply `Readme.md` with installation and run instructions
