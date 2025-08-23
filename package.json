@@ -4,9 +4,14 @@
   "description": "Copies and renames images from media_source to media_destination based on a JSON catalogue.",
   "main": "src/app.js",
   "scripts": {
-  "start": "node src/app.js",
-  "build": "node src/build-static.js"
+    "start": "node src/app.js",
+    "build": "node src/build-static.js",
+    "extract-db": "node --experimental-sqlite src/db/db.js",
+    "v": "node -v"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0"
+  }
 }

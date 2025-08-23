@@ -2,6 +2,7 @@
 media_destination/
 
 # env and framework
+.npmrc
 /node_modules
 .env
 
