@@ -1,5 +1,6 @@
 # content folders
 media_destination/
+output/
 
 # env and framework
 .npmrc

@@ -25,3 +25,11 @@
 - copy the `media_source/collection.anki2` to the `media_destination/collection.anki2`
 - update the destination DB copy with cards translations from `media_source/processedCards.json` by ID
 - only update text, preserve the image tags / rest of HTML. Reference the original extracted text from `media_destination/sourceCards.json` to do a safe replacement
+
+# Step 5
+
+- implement `src/export/export.js`  and provide a package.json script
+- copy `media_source/` to a temporary `media_destination/export/` folder
+- within this `export` folder replace the `collection.anki2` with one from `media_destination/`
+- ZIP the contents of `media_destination/export/` as `output/deck.apkg`
+- cleanup the previous export output and temporary folder if exists

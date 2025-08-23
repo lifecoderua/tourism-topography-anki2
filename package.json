@@ -8,11 +8,13 @@
     "build": "node src/build-static.js",
     "extract-db": "node src/db/extract.js",
     "repopulate-db": "node src/db/repopulate.js",
-    "v": "node -v"
+    "v": "node -v",
+    "export-deck": "node src/export/export.js"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "archiver": "^7.0.1",
     "better-sqlite3": "^12.2.0"
   }
 }
