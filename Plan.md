@@ -17,3 +17,11 @@
 - provide a separate DB handling execution command in `package.json`
 - run through the SQLite, collect entries and output as JSON `media_destination/sourceCards.json`
 - each entry should contain `{ id, primaryDescription, secondaryDescription }`
+
+# Step 4
+
+- implement `src/db/repopulate.js` and provide a package.json script
+- consult `db/info.md` for DB structure
+- copy the `media_source/collection.anki2` to the `media_destination/collection.anki2`
+- update the destination DB copy with cards translations from `media_source/processedCards.json` by ID
+- only update text, preserve the image tags / rest of HTML. Reference the original extracted text from `media_destination/sourceCards.json` to do a safe replacement
