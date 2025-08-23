@@ -1,0 +1,1587 @@
+[
+  {
+    "id": 1486343428830,
+    "primaryDescription": "Місто будь-яких розмірів",
+    "secondaryDescription": "250-метрівка, помаранчеві квартали з будинками"
+  },
+  {
+    "id": 1486343428831,
+    "primaryDescription": "500-метрівка Місто велике",
+    "secondaryDescription": "500-метрівка, не позначені окремі будинки"
+  },
+  {
+    "id": 1486343428832,
+    "primaryDescription": "Місто велике",
+    "secondaryDescription": "кілометрівка, не показані окремі будинки"
+  },
+  {
+    "id": 1486343428833,
+    "primaryDescription": "Місто маленьке",
+    "secondaryDescription": "500-метрівка, позначені окремі будинки"
+  },
+  {
+    "id": 1486343428834,
+    "primaryDescription": "Місто маленьке",
+    "secondaryDescription": "Кілометрівка, будинки є, квартали не позначені"
+  },
+  {
+    "id": 1486343428835,
+    "primaryDescription": "Селище",
+    "secondaryDescription": "250-метрівка"
+  },
+  {
+    "id": 1486343428836,
+    "primaryDescription": "Селище",
+    "secondaryDescription": "500-метрівка, будинки дрібні"
+  },
+  {
+    "id": 1486343428837,
+    "primaryDescription": "Селище",
+    "secondaryDescription": "кілометрівка, квартали чорного кольору"
+  },
+  {
+    "id": 1486343428838,
+    "primaryDescription": "Дачне селище",
+    "secondaryDescription": "маленькі будиночки, що тісно поставлені"
+  },
+  {
+    "id": 1486343428839,
+    "primaryDescription": "Селище з хаотичною забудовою",
+    "secondaryDescription": "немає прив'язки до вулиць"
+  },
+  {
+    "id": 1486343428840,
+    "primaryDescription": "Селище розподіленого типу",
+    "secondaryDescription": "двори, що стоять дуже окремо"
+  },
+  {
+    "id": 1486343428841,
+    "primaryDescription": "Цегляні квартали",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428842,
+    "primaryDescription": "Дерев'яні квартали",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428843,
+    "primaryDescription": "Зруйновані квартали",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428844,
+    "primaryDescription": "Непроїжджі вулиці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428845,
+    "primaryDescription": "Видатні споруди",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428846,
+    "primaryDescription": "Споруди",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428847,
+    "primaryDescription": "Руїни",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428848,
+    "primaryDescription": "Окремі двори",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428849,
+    "primaryDescription": "Стоянки юрт",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428850,
+    "primaryDescription": "Заводські труби",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428851,
+    "primaryDescription": "Нафтові вежі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428852,
+    "primaryDescription": "Телевізійні вежі (Висота)",
+    "secondaryDescription": "обведені як видатні споруди, величезна висота"
+  },
+  {
+    "id": 1486343428853,
+    "primaryDescription": "Радіощогли (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428854,
+    "primaryDescription": "Цегляні вежі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428855,
+    "primaryDescription": "Легкі вежі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428856,
+    "primaryDescription": "Терикони (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428857,
+    "primaryDescription": "Терикони не в масштабі (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428858,
+    "primaryDescription": "Трансформаторні будки",
+    "secondaryDescription": "чорна основа"
+  },
+  {
+    "id": 1486343428859,
+    "primaryDescription": "Вітряки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428860,
+    "primaryDescription": "Водяні млини",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428861,
+    "primaryDescription": "Печі для вапна",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428862,
+    "primaryDescription": "Заводи з трубами не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428863,
+    "primaryDescription": "Заводи без труб",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428864,
+    "primaryDescription": "Заводи без труб не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428865,
+    "primaryDescription": "Кар'єр",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428866,
+    "primaryDescription": "Кар'єр не в масштабі",
+    "secondaryDescription": "половина ями"
+  },
+  {
+    "id": 1486343428867,
+    "primaryDescription": "Шахти діючі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428868,
+    "primaryDescription": "Шахти покинуті",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428869,
+    "primaryDescription": "Соляний кар'єр",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428870,
+    "primaryDescription": "Соляний кар'єр не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428871,
+    "primaryDescription": "Торфорозробки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428872,
+    "primaryDescription": "Торфорозробки не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428873,
+    "primaryDescription": "Електростанція",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428874,
+    "primaryDescription": "Електростанція не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428875,
+    "primaryDescription": "Нафтова качалка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428876,
+    "primaryDescription": "Склад пального",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428877,
+    "primaryDescription": "АЗС",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428878,
+    "primaryDescription": "Радіостанції, телецентри",
+    "secondaryDescription": "чорна квадратна основа"
+  },
+  {
+    "id": 1486343428879,
+    "primaryDescription": "Вітряний млин",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428880,
+    "primaryDescription": "Аеродром",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428881,
+    "primaryDescription": "Посадковий майданчик",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428882,
+    "primaryDescription": "Телеграфні та телефонні станції",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428883,
+    "primaryDescription": "Метеостанції",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428884,
+    "primaryDescription": "Пам'ятники та монументи висотою понад 1м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428885,
+    "primaryDescription": "Будинки лісників",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428886,
+    "primaryDescription": "Церква",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428887,
+    "primaryDescription": "Каплиця",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428888,
+    "primaryDescription": "Мечеть",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428889,
+    "primaryDescription": "Буддійська пагода",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428890,
+    "primaryDescription": "Мазари, субургани, обо",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428891,
+    "primaryDescription": "Кладовища відкриті",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428892,
+    "primaryDescription": "Кладовища не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428893,
+    "primaryDescription": "Кладовища з деревами",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428894,
+    "primaryDescription": "Кладовища з деревами не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428895,
+    "primaryDescription": "Скотомогильники",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428896,
+    "primaryDescription": "Загони для худоби",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428897,
+    "primaryDescription": "Пасіка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428898,
+    "primaryDescription": "Телефонні та телеграфні лінії",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343428899,
+    "primaryDescription": "ЛЕП на дерев'яних опорах",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429000,
+    "primaryDescription": "ЛЕП на металевих опорах (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429001,
+    "primaryDescription": "Наземні нафтопроводи",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429002,
+    "primaryDescription": "Наземні нафтопроводи - станції перекачування",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429003,
+    "primaryDescription": "Підземні нафтопроводи",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429004,
+    "primaryDescription": "Газопроводи",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429005,
+    "primaryDescription": "Газопроводи - компресорні станції",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429006,
+    "primaryDescription": "Стародавні кріпосні стіни (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429007,
+    "primaryDescription": "Кам'яні, цегляні та металеві огорожі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429008,
+    "primaryDescription": "Місце головної точки - геометричний центр знака",
+    "secondaryDescription": "Місце головної точки"
+  },
+  {
+    "id": 1486343429009,
+    "primaryDescription": "Місце головної точки - середина основи знака",
+    "secondaryDescription": "Місце головної точки"
+  },
+  {
+    "id": 1486343429010,
+    "primaryDescription": "Місце головної точки - вершина прямого кута основи",
+    "secondaryDescription": "Місце головної точки"
+  },
+  {
+    "id": 1486343429011,
+    "primaryDescription": "Місце головної точки - центр нижньої фігури",
+    "secondaryDescription": "Місце головної точки"
+  },
+  {
+    "id": 1486343429012,
+    "primaryDescription": "Пункт геодезичної мережі (Висота основи над рівнем моря)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429013,
+    "primaryDescription": "Пункт геодезичної мережі на кургані (висота кургану)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429014,
+    "primaryDescription": "Точка знімальної мережі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429015,
+    "primaryDescription": "Точка знімальної мережі на курганах",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429016,
+    "primaryDescription": "Пункт геодезичної мережі на будівлі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429017,
+    "primaryDescription": "Пункт геодезичної мережі на церкві",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429018,
+    "primaryDescription": "Нівелірні марки та репери",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429019,
+    "primaryDescription": "Триколійна залізниця",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429020,
+    "primaryDescription": "Двоколійна залізниця",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429021,
+    "primaryDescription": "Одноколійна залізниця",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429022,
+    "primaryDescription": "Залізничний тупик",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429023,
+    "primaryDescription": "Станція залізниці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429024,
+    "primaryDescription": "Електрифікована 1-2-3 колійна залізниця",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429025,
+    "primaryDescription": "Залізничний насип (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429026,
+    "primaryDescription": "Залізнична виїмка (Глибина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429027,
+    "primaryDescription": "Залізниця з великим ухилом у горах",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429028,
+    "primaryDescription": "Споруджувані залізниці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429029,
+    "primaryDescription": "Полотно розібраних залізниць",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429030,
+    "primaryDescription": "Залізничний вокзал, депо та перехід у масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429031,
+    "primaryDescription": "Залізниця, труба під насипом",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429032,
+    "primaryDescription": "Залізнична естакада",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429033,
+    "primaryDescription": "Автострада (Ширина смуги, кількість смуг, матеріал покриття)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429034,
+    "primaryDescription": "Автострада по насипу",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429035,
+    "primaryDescription": "Шосе по виїмці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429036,
+    "primaryDescription": "Шосе (Ширина покриття, ширина від канави до канави, матеріал покриття)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429037,
+    "primaryDescription": "Покращені ґрунтові дороги (Ширина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429038,
+    "primaryDescription": "Покращені ґрунтові дороги - важко проїжджувані ділянки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429039,
+    "primaryDescription": "Міст через незначну перешкоду",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429040,
+    "primaryDescription": "Дорога з великим ухилом",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429041,
+    "primaryDescription": "Перевал (Висота, місяці)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429042,
+    "primaryDescription": "Ґрунтові дороги",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429043,
+    "primaryDescription": "Польові та лісові дороги",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429044,
+    "primaryDescription": "Пішохідні стежки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429045,
+    "primaryDescription": "Пішохідна стежка з містком",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429046,
+    "primaryDescription": "Зимник по річці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429047,
+    "primaryDescription": "Дороги з дерев'яним покриттям",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429048,
+    "primaryDescription": "Ґрунтові дороги по гаті",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429049,
+    "primaryDescription": "Шосе - зміна покриття",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429050,
+    "primaryDescription": "Шосе - кілометрові позначки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429051,
+    "primaryDescription": "Шляхопроводи над залізницею",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429052,
+    "primaryDescription": "Шляхопроводи над автодорогою",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429053,
+    "primaryDescription": "Переїзди на одному рівні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429054,
+    "primaryDescription": "Тунелі (Висота, ширина, довжина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429055,
+    "primaryDescription": "Вузькоколійка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429056,
+    "primaryDescription": "Споруджувана вузькоколійка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429057,
+    "primaryDescription": "Мости двоярусні (шосе знизу)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429058,
+    "primaryDescription": "Мости двоярусні (шосе зверху)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429059,
+    "primaryDescription": "Підвісна канатна дорога",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429060,
+    "primaryDescription": "Трамвайні колії",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429061,
+    "primaryDescription": "Державний кордон СРСР",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429062,
+    "primaryDescription": "Межа заповідника",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429063,
+    "primaryDescription": "Акведук",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429064,
+    "primaryDescription": "Берегова лінія чітка і визначена",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429065,
+    "primaryDescription": "Берегова лінія невизначена",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429066,
+    "primaryDescription": "Мілина",
+    "secondaryDescription": "пісок"
+  },
+  {
+    "id": 1486343429067,
+    "primaryDescription": "Берегові мілини",
+    "secondaryDescription": "пісок"
+  },
+  {
+    "id": 1486343429068,
+    "primaryDescription": "Небезпечні береги",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429069,
+    "primaryDescription": "Припливно-відливна смуга піщана",
+    "secondaryDescription": "пісок"
+  },
+  {
+    "id": 1486343429070,
+    "primaryDescription": "Припливно-відливна смуга піщано-кам'яниста",
+    "secondaryDescription": "пісок, галька"
+  },
+  {
+    "id": 1486343429071,
+    "primaryDescription": "Припливно-відливна смуга мулиста",
+    "secondaryDescription": "мул, пісок"
+  },
+  {
+    "id": 1486343429072,
+    "primaryDescription": "Припливно-відливна смуга скеляста",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429073,
+    "primaryDescription": "Берег обривистий без пляжу (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429074,
+    "primaryDescription": "Берег обривистий з пляжем (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429075,
+    "primaryDescription": "Береговий вал",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429076,
+    "primaryDescription": "Річки та струмки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429077,
+    "primaryDescription": "Судноплавна річка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429078,
+    "primaryDescription": "Несудноплавна річка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429079,
+    "primaryDescription": "Підземна частина русла",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429080,
+    "primaryDescription": "Канали шириною до 60м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429081,
+    "primaryDescription": "Канали шириною до 10м з водовідведенням",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429082,
+    "primaryDescription": "Канали шириною до 3м, обсадка деревами",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429083,
+    "primaryDescription": "Канали шириною до 3м, обсадка кущами",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429084,
+    "primaryDescription": "Підземний канал",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429085,
+    "primaryDescription": "Підземний водопровід",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429086,
+    "primaryDescription": "Споруджуваний канал",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429087,
+    "primaryDescription": "Сухі канали до 3м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429088,
+    "primaryDescription": "Сухі канали більше 3м (Ширина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429089,
+    "primaryDescription": "Річки та канали з дамбами (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429090,
+    "primaryDescription": "Прісне озеро",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429091,
+    "primaryDescription": "Гірко-солоне озеро",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429092,
+    "primaryDescription": "Солоне озеро",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429093,
+    "primaryDescription": "Позначки урізів води",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429094,
+    "primaryDescription": "Напрямок течії річок (Швидкість)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429095,
+    "primaryDescription": "Характеристики річок (Ширина, глибина, характер дна)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429096,
+    "primaryDescription": "Брід (Глибина, довжина, характер дна, швидкість течії)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429097,
+    "primaryDescription": "Пором (Ширина річки, розмір порома, вантажопідйомність)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429098,
+    "primaryDescription": "Міст дерев'яний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429099,
+    "primaryDescription": "Міст металевий",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429100,
+    "primaryDescription": "Міст кам'яний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429101,
+    "primaryDescription": "Міст розвідний дерев'яний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429102,
+    "primaryDescription": "Міст розвідний металевий",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429103,
+    "primaryDescription": "Міст розвідний кам'яний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429104,
+    "primaryDescription": "Міст понтонний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429105,
+    "primaryDescription": "Міст канатний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429106,
+    "primaryDescription": "Характеристики мосту (Матеріал, висота над водою, довжина, ширина, вантажопідйомність)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429107,
+    "primaryDescription": "Міст коротший за 3м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429108,
+    "primaryDescription": "Шлюз (Кількість камер, довжина, ширина та мінімальна глибина камери)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429109,
+    "primaryDescription": "Шлюз не в масштабі (Довжина, ширина та мінімальна глибина камери)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429110,
+    "primaryDescription": "Набережна",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429111,
+    "primaryDescription": "Водоспад не в масштабі (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429112,
+    "primaryDescription": "Водоспад (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429113,
+    "primaryDescription": "Площі розливу річок, що тримаються більше 2 місяців на рік",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429114,
+    "primaryDescription": "Водомірний пост",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429115,
+    "primaryDescription": "Гребля непроїзна (Матеріал, довжина, ширина, рівень води вище і нижче)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429116,
+    "primaryDescription": "Гребля проїзна (Матеріал, довжина, ширина, рівень води вище і нижче)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429117,
+    "primaryDescription": "Гребля підводна (рівень води вище і нижче)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429118,
+    "primaryDescription": "Наземний водопровід",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429119,
+    "primaryDescription": "Кяриз діючий (ланцюг колодязів з підземним каналом)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429120,
+    "primaryDescription": "Кяриз недіючий (ланцюг колодязів з підземним каналом)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429121,
+    "primaryDescription": "Головний колодязь (Рівень землі, глибина, наповнюваність)",
+    "secondaryDescription": "немає рамки, глибина, багато"
+  },
+  {
+    "id": 1486343429122,
+    "primaryDescription": "Артезіанський колодязь (Рівень землі, наповнюваність)",
+    "secondaryDescription": "немає рамки, немає глибини, багато"
+  },
+  {
+    "id": 1486343429123,
+    "primaryDescription": "Колодязь",
+    "secondaryDescription": "немає рамки, глибина, мало"
+  },
+  {
+    "id": 1486343429124,
+    "primaryDescription": "Бетонований колодязь",
+    "secondaryDescription": "рамка, глибина, мало"
+  },
+  {
+    "id": 1486343429125,
+    "primaryDescription": "Колодязь з вітряним двигуном",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429126,
+    "primaryDescription": "Чигир (ланцюг черпаків)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429127,
+    "primaryDescription": "Дощова яма",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429128,
+    "primaryDescription": "Джерело",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429129,
+    "primaryDescription": "Обладнане джерело",
+    "secondaryDescription": "рамка, немає глибини, багато"
+  },
+  {
+    "id": 1486343429130,
+    "primaryDescription": "Гейзер",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429131,
+    "primaryDescription": "Залізничний пором",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429132,
+    "primaryDescription": "Якірна стоянка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429133,
+    "primaryDescription": "Пристань",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429134,
+    "primaryDescription": "Мол",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429135,
+    "primaryDescription": "Причал",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429136,
+    "primaryDescription": "Хвилеломи",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429137,
+    "primaryDescription": "Банки малого розміру (глибина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429138,
+    "primaryDescription": "Камені підводні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429139,
+    "primaryDescription": "Камені надводні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429140,
+    "primaryDescription": "Камені, що обсихають",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429141,
+    "primaryDescription": "Скелі надводні (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429142,
+    "primaryDescription": "Рифи підводні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429143,
+    "primaryDescription": "Рифи, що обсихають",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429144,
+    "primaryDescription": "Морський канал",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429145,
+    "primaryDescription": "Глибина",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429146,
+    "primaryDescription": "Водорості",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429147,
+    "primaryDescription": "Місця скупчення плавника",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429148,
+    "primaryDescription": "Маяк",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429149,
+    "primaryDescription": "Береговий вогонь",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429150,
+    "primaryDescription": "Плавучий маяк",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429151,
+    "primaryDescription": "Світловий буй",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429152,
+    "primaryDescription": "Знак берегової річкової сигналізації",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429153,
+    "primaryDescription": "Сухий док",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429154,
+    "primaryDescription": "Припливно-відливна течія",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429155,
+    "primaryDescription": "Сліп",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429156,
+    "primaryDescription": "Горизонталі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429157,
+    "primaryDescription": "Позначки висот та орієнтирів",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429158,
+    "primaryDescription": "Яр",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429159,
+    "primaryDescription": "Обрів (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429160,
+    "primaryDescription": "Курган (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429161,
+    "primaryDescription": "Курган не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429162,
+    "primaryDescription": "Яма (Глибина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429163,
+    "primaryDescription": "Яма не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429164,
+    "primaryDescription": "Скелі-останці (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429165,
+    "primaryDescription": "Дайка (крутостінна гряда)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429166,
+    "primaryDescription": "Кратер вулкана",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429167,
+    "primaryDescription": "Кратер грязьового вулкана",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429168,
+    "primaryDescription": "Окремо лежачий камінь (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429169,
+    "primaryDescription": "Скупчення каменів",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429170,
+    "primaryDescription": "Карстові воронки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429171,
+    "primaryDescription": "Печера",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429172,
+    "primaryDescription": "Лавові потоки",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429173,
+    "primaryDescription": "Задернований уступ",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429174,
+    "primaryDescription": "Льодовик",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429175,
+    "primaryDescription": "Зсув",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429176,
+    "primaryDescription": "Піщаний осип",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429177,
+    "primaryDescription": "Кам'янистий осип",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429178,
+    "primaryDescription": "Налід",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429179,
+    "primaryDescription": "Крижаний обрив",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429180,
+    "primaryDescription": "Хвойний ліс (Висота дерев, товщина та відстань між стовбурами)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429181,
+    "primaryDescription": "Листяний ліс (Висота дерев, товщина та відстань між стовбурами)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429182,
+    "primaryDescription": "Змішаний ліс (Висота дерев, товщина та відстань між стовбурами)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429183,
+    "primaryDescription": "Лісопосадки та поросль (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429184,
+    "primaryDescription": "Вузькі смуги лісу (Висота)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429185,
+    "primaryDescription": "Окремо стоячий гай не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429186,
+    "primaryDescription": "Окремо стояче дерево-орієнтир",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429187,
+    "primaryDescription": "Окремо стояче дерево не-орієнтир",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429188,
+    "primaryDescription": "Пальмові гаї",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429189,
+    "primaryDescription": "Пальмові гаї не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429190,
+    "primaryDescription": "Окремі пальми",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429191,
+    "primaryDescription": "Бурелом",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429192,
+    "primaryDescription": "Рідколісся",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429193,
+    "primaryDescription": "Низькоросле рідколісся",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429194,
+    "primaryDescription": "Горілий ліс",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429195,
+    "primaryDescription": "Просіка ширша за 20м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429196,
+    "primaryDescription": "ЛЕП по просіці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429197,
+    "primaryDescription": "Просіки (Ширина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429198,
+    "primaryDescription": "Лінія зв'язку по просіці (Ширина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429199,
+    "primaryDescription": "Окремі кущі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429200,
+    "primaryDescription": "Суцільні зарості кущів",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429201,
+    "primaryDescription": "Жива огорожа",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429202,
+    "primaryDescription": "Колючий чагарник",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429203,
+    "primaryDescription": "Окремі групи саксаулу",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429204,
+    "primaryDescription": "Суцільні зарості саксаулу",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429205,
+    "primaryDescription": "Окремі групи стланика",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429206,
+    "primaryDescription": "Суцільні зарості стланика",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429207,
+    "primaryDescription": "Зарості бамбука",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429208,
+    "primaryDescription": "Фруктовий сад",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429209,
+    "primaryDescription": "Виноградник",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429210,
+    "primaryDescription": "Ягідний сад",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429211,
+    "primaryDescription": "Мангрові зарості (затоплювані узбережжя)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429212,
+    "primaryDescription": "Теплиці",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429213,
+    "primaryDescription": "Рисові поля",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429214,
+    "primaryDescription": "Рисові поля, постійно вкриті водою",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429215,
+    "primaryDescription": "Плантації деревні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429216,
+    "primaryDescription": "Плантації чагарникові",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429217,
+    "primaryDescription": "Плантації трав'яні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429218,
+    "primaryDescription": "Лугова трава нижче 1м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429219,
+    "primaryDescription": "Лугова трава вище 1м",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429220,
+    "primaryDescription": "Очеретяні зарості",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429221,
+    "primaryDescription": "Мокрі лужки трав'янисті, не в масштабі",
+    "secondaryDescription": "трава"
+  },
+  {
+    "id": 1486343429222,
+    "primaryDescription": "Мокрі лужки очеретяні, не в масштабі",
+    "secondaryDescription": "очерет"
+  },
+  {
+    "id": 1486343429223,
+    "primaryDescription": "Степова рослинність",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429224,
+    "primaryDescription": "Напівчагарники (полин)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429225,
+    "primaryDescription": "Мох",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429226,
+    "primaryDescription": "Болото непрохідне (Глибина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429227,
+    "primaryDescription": "Болото прохідне (Глибина)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429228,
+    "primaryDescription": "Зимник через болото",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429229,
+    "primaryDescription": "Солончак непрохідний (розкислий)",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429230,
+    "primaryDescription": "Солончак прохідний",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429231,
+    "primaryDescription": "Вирубка",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429232,
+    "primaryDescription": "Полігональна тундра",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429233,
+    "primaryDescription": "Такир",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429234,
+    "primaryDescription": "Ділянки такиру не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429235,
+    "primaryDescription": "Пагорби не в масштабі",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429236,
+    "primaryDescription": "Купини",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429237,
+    "primaryDescription": "Піски рівні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429238,
+    "primaryDescription": "Піски горбисті",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429239,
+    "primaryDescription": "Піски дюнні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429240,
+    "primaryDescription": "Піски лункові",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429241,
+    "primaryDescription": "Піски барханні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429242,
+    "primaryDescription": "Щебеневі поверхні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429243,
+    "primaryDescription": "Кам'янисті поверхні",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429244,
+    "primaryDescription": "Галечники",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1486343429245,
+    "primaryDescription": "Райони магнітних аномалій",
+    "secondaryDescription": ""
+  },
+  {
+    "id": 1487436148423,
+    "primaryDescription": "Сухі русла",
+    "secondaryDescription": ""
+  }
+]
