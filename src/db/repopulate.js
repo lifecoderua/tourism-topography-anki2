@@ -39,7 +39,6 @@ for (const note of notes) {
 	const processedCardDescription = processedById[id];
 	if (!sourceCardDescription || !processedCardDescription) {
     console.log(`Missing description for note ${id}`);
-    debugger;
     continue;
   }
 	const cardParts = splitFlds(flds);
